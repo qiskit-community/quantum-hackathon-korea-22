@@ -2,13 +2,13 @@
 ## About this event
 This hackathon is hosted by the ministry of science and ICT of Korean government and organized by Qcenter, SKKU.
 Qiskit Community support this event as an official partner. 
-[link]()
+[link](#)
 
 Thank you for 
 [Yuri Kobayashi](https://github.com/veenaiyuri) for being a judge of this event.
 [Kifumi Numata](https://github.com/kifumi) and [Sophy Shin](https://github.com/0sophy1) and  for suggesting challenge problems.
 
-[Elena Peña Tapia](https://github.com/ElePT), [Visal Bajpe](https://github.com/mrvee-qC), , [Dayeong Kang](https://github.com/tula3and), [Gyeonghun Kim](https://github.com/GyeonghunKim), [Inho Choi](https://github.com/q-inho), [Jinwoong Kim](https://github.com/kjwcoo) being a mentor for the student.
+[Elena Peña Tapia](https://github.com/ElePT), [Visal Bajpe](https://github.com/mrvee-qC),  [Dayeong Kang](https://github.com/tula3and), [Gyeonghun Kim](https://github.com/GyeonghunKim), [Inho Choi](https://github.com/q-inho), [Jinwoong Kim](https://github.com/kjwcoo) being a mentor for the student.
 
 
 ## Things to do before the hackathon
