@@ -1,30 +1,26 @@
-# Quantum Hackathon Korea 2021
+# Quantum Hackathon Korea 2022
 ## About this event
 This hackathon is hosted by the ministry of science and ICT of Korean government and organized by Qcenter, SKKU.
 Qiskit Community support this event as an official partner. 
-[http://qhackathon.kr/](https://qhackathon.kr/2021/)
+[link]()
 
 Thank you for 
-[Junye Huang](https://github.com/HuangJunye) for delivering wonderful seminar on "Quantum Games" at 28 June
-
-[Toshinari Itoko](https://github.com/itoko) and [Kifumi Numata](https://github.com/kifumi) for suggesting challenge problems.
-
 [Yuri Kobayashi](https://github.com/veenaiyuri) for being a judge of this event.
+[Kifumi Numata](https://github.com/kifumi) and [Sophy Shin](https://github.com/0sophy1) and  for suggesting challenge problems.
 
-[Wen-Sen (Vincent) Lu](https://github.com/wslu42), [Spencer Churchill](https://github.com/splch), [Miroslav Tomášik](https://github.com/molar-volume), [Manjula Gandhi](https://github.com/ManjulaGandhi), [Utkarsh Azad](https://github.com/obliviateandsurrender) being a mentor for the student.
+[Elena Peña Tapia](https://github.com/ElePT), [Visal Bajpe](https://github.com/mrvee-qC), , [Dayeong Kang](https://github.com/tula3and), [Gyeonghun Kim](https://github.com/GyeonghunKim), [Inho Choi](https://github.com/q-inho), [Jinwoong Kim](https://github.com/kjwcoo) being a mentor for the student.
 
 
 ## Things to do before the hackathon
 
 Check the [`preparation&installation`](preparation%26installation.md) note for things to do before the hackathon
 
-## I have an idea for the hackathon
+## Join IBM Quantum Challenge
 
-Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-taiwan-20/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
+Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-taiwan-20/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template. Only issue at thie repo would be eligible to win the IBM Quantum Challenge.
 
-Don't worry if your team is not complete yet.
 Tag your project with `members wanted` and describe what kind of member are your searching for in the `Members` section.
-At the beginning of the hackathon, the project should have no more than 5 members.
+At the beginning of the hackathon, the project should have no more than  members.
 
 ## My team is complete
 
@@ -44,21 +40,22 @@ The team needs a coach before the final submission at the end of the hackathon.
 ## Hackathon Schedule
 
 ### Day 1 Hackathon
-| Wed (June 30) |  |
+| Mon (June 27) |  |
 | -------------- | --------------------------------- |
-| 00:00 -  | Hackathon start |
+| 17:00 -  | Hackathon start |
  
  
 ### Day 2 Hackathon
-| Thu (July 1) |  |
+| Tue (June 28) |  |
 | -------------- | --------------------------------- |
-|- 18:00 | Hackathon end  |
-| 18:00 -  | Judging start |
+| All-day | Coding  |
+
 
 ### Day 3 Awards
-| Fri (July 2) |  |
+| Wed (June 29) |  |
 | -------------- | --------------------------------- |
-| - 10:00 | Judging end
-| 17:30 - 18:00 | Awards Ceremony|
+| - 12:00 | Coding end
+| 12:00 - 16:00 | Judging|
+| 16:00 - 17:00 | Award Ceremoney|
 
 
