@@ -2,7 +2,7 @@
 ## About this event
 This hackathon is hosted by the ministry of science and ICT of Korean government and organized by Qcenter, SKKU.
 Qiskit Community support this event as an official partner. 
-[link](#)
+[link]([http://qweek.kr](https://qhackathon.kr/))
 
 Thank you for 
 [Yuri Kobayashi](https://github.com/veenaiyuri) for being a judge of this event.
@@ -42,7 +42,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 ### Day 1 Hackathon
 | Mon (June 27) |  |
 | -------------- | --------------------------------- |
-| 17:00 -  | Hackathon start |
+| 14:30 -  | Hackathon start |
  
  
 ### Day 2 Hackathon
@@ -55,7 +55,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | Wed (June 29) |  |
 | -------------- | --------------------------------- |
 | - 12:00 | Coding end
-| 12:00 - 16:00 | Judging|
-| 16:00 - 17:00 | Award Ceremoney|
+| 12:00 - 17:00 | Judging|
+| 18:00 - 18:30 | Award Ceremoney|
 
 
