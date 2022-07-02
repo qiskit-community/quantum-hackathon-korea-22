@@ -12,7 +12,7 @@ Thank you for
 
 ## Winners
 |Award	| Team name	| Topic |
-| ---- |--- --- | --- |
+| ---- |------ | --- |
 |Ministry award |	Qbrain |	Neuromorphic computing meets Quantum |
 | SKKU award |	복숭아아이스티(Peach-flavor Ice tea)	| QCNN for Arbitrary Input Dimension |
 | Qcenter award	| IamQ	| Application of Variational Method on Hamiltonian Simulation |
