@@ -10,6 +10,17 @@ Thank you for
 
 [Elena Peña Tapia](https://github.com/ElePT), [Visal Bajpe](https://github.com/mrvee-qC),  [Dayeong Kang](https://github.com/tula3and), [Gyeonghun Kim](https://github.com/GyeonghunKim), [Inho Choi](https://github.com/q-inho), [Jinwoong Kim](https://github.com/kjwcoo) being a mentor for the student.
 
+## Winners
+|Award	| Team name	| Topic |
+| ---- |--- --- | --- |
+|Ministry award |	Qbrain |	Neuromorphic computing meets Quantum |
+| SKKU award |	복숭아아이스티(Peach-flavor Ice tea)	| QCNN for Arbitrary Input Dimension |
+| Qcenter award	| IamQ	| Application of Variational Method on Hamiltonian Simulation |
+| IonQ award |	Alice and Bob |	Error mitigation for reliable quantum computation |
+| Qiskit Award	| ThankQ	| QAOA with various kernel and NN |
+| Community award |	Quantum Ant |	Build your minimal quantum circuit - making a quantum calculator |
+| Community award	| QAS	| Various Applicated Adder implementation and their performance with Qiskit|
+
 
 ## Things to do before the hackathon
 
