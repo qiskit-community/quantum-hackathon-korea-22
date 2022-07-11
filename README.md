@@ -14,12 +14,12 @@ Thank you for
 |Award	| Team name	| Topic |
 | ---- |------ | --- |
 |Ministry award |	[Qbrain](https://github.com/qiskit-community/quantum-hackathon-korea-22/issues/5) |	Neuromorphic computing meets Quantum |
-| SKKU award |	복숭아아이스티(Peach-flavor Ice tea)	| QCNN for Arbitrary Input Dimension |
+| SKKU award |	[복숭아아이스티(Peach-flavor Ice tea)](https://github.com/qiskit-community/quantum-hackathon-korea-22/issues/10)	| QCNN for Arbitrary Input Dimension |
 | Qcenter award	| IamQ	| Application of Variational Method on Hamiltonian Simulation |
-| IonQ award |	Alice and Bob |	Error mitigation for reliable quantum computation |
-| Qiskit Award	| ThankQ	| QAOA with various kernel and NN |
-| Community award |	Quantum Ant |	Build your minimal quantum circuit - making a quantum calculator |
-| Community award	| QAS	| Various Applicated Adder implementation and their performance with Qiskit|
+| IonQ award |	[Alice and Bob](https://github.com/qiskit-community/quantum-hackathon-korea-22/issues/15) |	Error mitigation for reliable quantum computation |
+| Qiskit Award	| [ThankQ](https://github.com/qiskit-community/quantum-hackathon-korea-22/issues/3)	| QAOA with various kernel and NN |
+| Community award |	[Quantum Ant](https://github.com/qiskit-community/quantum-hackathon-korea-22/issues/9) |	Build your minimal quantum circuit - making a quantum calculator |
+| Community award	| [QAS](https://github.com/qiskit-community/quantum-hackathon-korea-22/issues/4)	| Various Applicated Adder implementation and their performance with Qiskit|
 
 
 ## Things to do before the hackathon
